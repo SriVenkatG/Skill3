@@ -3,9 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://likitha2505.github.io/s207",
+  "homepage": "https://github.com/SriVenkatG/Skill3.git",
   "scripts": {
-    "dev": "vite",
+    "dev": "node ./node_modules/vite/bin/vite.js",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
